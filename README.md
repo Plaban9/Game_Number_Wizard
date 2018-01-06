@@ -3,4 +3,4 @@ A number guessing game.
 
 The computer guesses your number.
 
-Initially binary search was used but to make it feel like more natural Random.range() was used.
+Initially binary search was used but to make it feel like more natural Random.Range() was used.
